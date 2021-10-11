@@ -1,0 +1,26 @@
+{
+  "id": "8334aa56-5106-406f-a49d-c916b49e0d26",
+  "name": "PDF Viewer",
+  "publisher": "Arend-Jan Kauffmann",
+  "version": "2.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50549
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://localhost",
+  "showMyCode": true,
+  "runtime": "7.0"
+}

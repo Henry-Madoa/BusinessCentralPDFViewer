@@ -1,0 +1,24 @@
+{
+  "id": "5a2ca8d8-6f00-41bd-9155-6effb494f864",
+  "name": "PDFViewer",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50549
+    }
+  ],
+  "runtime": "7.0"
+}
